@@ -1,0 +1,19 @@
+{
+  "name": "relax",
+  "version": "1.0.0",
+  "description": "just relax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plortinus/relax.git"
+  },
+  "author": "Ploritnus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Plortinus/relax/issues"
+  },
+  "homepage": "https://github.com/Plortinus/relax#readme"
+}
